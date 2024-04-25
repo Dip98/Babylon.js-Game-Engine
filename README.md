@@ -1,4 +1,5 @@
 A Basic Babylon.js Game Engine.
 
-All of the physics are made with Cannon.js.
-![image](https://github.com/Dip98/Babylon.js-Game-Engine/assets/134005854/9372e508-97d2-430e-b6d1-5624d84d1b0a)
+The graphics are made with Babylon.js, and the physics with Cannon.js.
+You can see the result here:
+https://www.khanacademy.org/computer-programming/babylonjscannonjs-demo/6004235352326144
